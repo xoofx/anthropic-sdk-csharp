@@ -1,5 +1,13 @@
 # Changelog
 
+## 12.17.0 (2026-04-18)
+
+Full Changelog: [Anthropic-v12.16.0...Anthropic-v12.17.0](https://github.com/anthropics/anthropic-sdk-csharp/compare/Anthropic-v12.16.0...Anthropic-v12.17.0)
+
+### Features
+
+* **client:** Add prompt caching support via WithCacheControl extension to Microsoft.Extensions.AI ([f007149](https://github.com/anthropics/anthropic-sdk-csharp/commit/f007149c471aa40a1ed7ab34e611cc749213f5ed))
+
 ## 12.16.0 (2026-04-16)
 
 Full Changelog: [Anthropic-v12.15.0...Anthropic-v12.16.0](https://github.com/anthropics/anthropic-sdk-csharp/compare/Anthropic-v12.15.0...Anthropic-v12.16.0)
